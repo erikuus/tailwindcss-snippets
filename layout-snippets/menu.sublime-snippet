@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="${1:ml-10} flex items-baseline space-x-4">
+
+</div>
+]]></content>
+<tabTrigger>twLayoutMenuContainer</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - menu container</description>
+</snippet>

@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+<nav x-data="{ open: false }" class="${1:bg-gray-800}">
+	<!--
+		Content width, margin, padding wrapper
+			Left and right layout container
+				Left logo and menu container
+					Logo container
+					Big screen wrapper
+						Menu container
+							Menu item
+				Right buttons containers
+					Big screen wrapper
+						Icon Button
+							Icon button svg
+						Dropdown button and menu container
+							Dropdown button
+								Dropdown button image
+							Dropdown menu
+								Dropdown menu item
+					Mobile screen wrapper
+						Mobile menu button
+							Mobile menu svg
+							Mobile menu svg
+		Mobile menu container
+			Main menu container
+				Main menu item
+			Secondary menu container
+				Horizontal container
+					Image cotainer
+						Image
+					Name container
+						Firstname
+						Lastname
+					Button
+						Svg
+				Vertical menu container
+					Vertical menu item
+	-->
+</nav>
+]]></content>
+<tabTrigger>twLayoutNav</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - navigation container</description>
+</snippet>

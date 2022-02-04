@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="flex items-center justify-between ${1:h-16}">
+
+</div>
+]]></content>
+<tabTrigger>twLayoutLeftRight</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - left and right navigation container</description>
+</snippet>

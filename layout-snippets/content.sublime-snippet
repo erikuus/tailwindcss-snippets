@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+
+</div>
+]]></content>
+<tabTrigger>twLayoutContent</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - content container</description>
+</snippet>

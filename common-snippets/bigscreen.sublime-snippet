@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="hidden md:block">
+
+</div>
+]]></content>
+<tabTrigger>twBigScreenContainer</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - big screen container</description>
+</snippet>
