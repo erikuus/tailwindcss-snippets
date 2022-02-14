@@ -4,7 +4,7 @@
 
 </div>
 ]]></content>
-<tabTrigger>twBigScreenContainer</tabTrigger>
+<tabTrigger>twCommonBigScreenContainer</tabTrigger>
 	<scope>text.html.basic</scope>
 	<description>Tailwindcss - big screen container</description>
 </snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="sr-only">
+
+</div>
+]]></content>
+<tabTrigger>twCommonScreenReader</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - screen reader only container</description>
+</snippet>

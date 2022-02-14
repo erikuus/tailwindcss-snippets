@@ -4,7 +4,7 @@
 
 </div>
 ]]></content>
-<tabTrigger>twItemsContainer</tabTrigger>
+<tabTrigger>twCommonItemsContainer</tabTrigger>
 	<scope>text.html.basic</scope>
 	<description>Tailwindcss - vertically centered items container</description>
 </snippet>

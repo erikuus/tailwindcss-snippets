@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<img class="${1:h-8} ${2:w-8}" src="${3:../images/square.jpg" alt="${4:Text}">
+]]></content>
+<tabTrigger>twCommonImage</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - image</description>
+</snippet>
