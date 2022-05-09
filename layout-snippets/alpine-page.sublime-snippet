@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 <!DOCTYPE html>
-<html class="h-full ${1:bg-gray-100}">
+<html class="h-full bg-gray-100">
 <head>
 	<title></title>
-	<link rel="stylesheet" href="${2:../style.css}">
+	<link rel="stylesheet" href="../style.css">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>

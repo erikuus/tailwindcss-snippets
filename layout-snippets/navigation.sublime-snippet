@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<nav x-data="{ open: false }" class="${1:bg-gray-800}">
+<nav x-data="{ open: false }" class="bg-gray-800">
 	<!--
 		Content width, margin, padding wrapper
 			Left and right layout container

@@ -4,7 +4,7 @@
 
 </div>
 ]]></content>
-<tabTrigger>twLayoutMenuContainer</tabTrigger>
+<tabTrigger>twLayoutMainMenuContainer</tabTrigger>
 	<scope>text.html.basic</scope>
-	<description>Tailwindcss - menu container</description>
+	<description>Tailwindcss - main menu container</description>
 </snippet>

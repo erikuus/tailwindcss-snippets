@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a href="#" class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium" aria-current="page">Link</a>
+]]></content>
+<tabTrigger>twLayoutMobileMenuItemActive</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - mobile menu item active</description>
+</snippet>

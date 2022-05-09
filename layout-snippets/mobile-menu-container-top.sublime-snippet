@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+
+</div>
+]]></content>
+<tabTrigger>twLayoutMobileMenuContainerTop</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Tailwindcss - mobile menu container top part</description>
+</snippet>

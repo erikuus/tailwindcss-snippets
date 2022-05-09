@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="#" class="${1:bg-gray-900} text-white px-3 py-2 rounded-md text-sm font-medium">${2:Link}</a>
-]]></content>
-<tabTrigger>twLayoutMenuItem</tabTrigger>
-	<scope>text.html.basic</scope>
-	<description>Tailwindcss - menu item</description>
-</snippet>
